@@ -22,25 +22,16 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcsil&layout=compact&hide=vhdl&theme=github_dark&langs_count=6&title_color=002FFF&bg_color=21262d"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=vcsil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&title_color=002FFF&bg_color=21262d"
-    />
+<p align="left">
+  <a href="https://bermeo.dev">
+    <img width="56%" src="https://github-readme-stats.vercel.app/api?username=vcsil&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&title_color=002FFF&bg_color=0d1117"/>
+    <img width="44%" src="http://github-readme-streak-stats.herokuapp.com?user=vcsil&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
+    <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vcsil&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&title_color=002FFF&hide_border=true&border_radius=15&bg_color=0d1117"/>
+    <img width="57%" src="https://activity-graph.herokuapp.com/graph?username=vcsil&theme=dracula&line=002FFF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" />
   </a>
 </p>
 
 <div align="center">
-
-![](https://raw.githubusercontent.com/vcsil/vcsil/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -59,6 +50,48 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+![](https://raw.githubusercontent.com/vcsil/vcsil/output/github-contribution-grid-snake.svg)
+
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+### Abstract
+
+<!-- -   👨‍💻 I'm currently working full-time at ****. -->
+
+-   🌱 Learning more about and studying: **NodeJS, ReactJS and DevOps**.
+
+### Languages and Tools
+
 <br/>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="nginx logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="52" alt="redis logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="52" alt="slack logo"  />
+</div>
+
+### Find me around the web 🌎:
+
+-   💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/vcsil/">LinkedIn</a>.
+
+<br/>
+
+<!-- ![](https://komarev.com/ghpvc/?color=blue&style=flat&username=vcsil) -->
+
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=vcsil.vcsil" alt="Visits"></p>
+
+<p align="center">
+  <br/>
+  <a href="https://storyset.com/web">Illustration by Freepik Storyset</a>
+</p>
