@@ -57,8 +57,6 @@ Markdown     1 min           ░░░░░░░░░░░░░░░░░
 Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
-![Code Time](http://img.shields.io/badge/Code%20Time-820%20hrs%2025%20mins-blue)
-
 <!--END_SECTION:waka-->
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
