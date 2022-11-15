@@ -40,10 +40,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   2 hrs 57 mins   ██████████████████▒░░░░░░   73.73 %
-XML        39 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.55 %
-YAML       20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-Other      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Other   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
