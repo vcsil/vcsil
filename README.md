@@ -78,7 +78,7 @@ No activity tracked
 
 ### Find me around the web 🌎:
 
--   💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/vcsil/">LinkedIn</a>.
+-   💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/vcsil/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=88px/></a>.
 
 <br/>
 
