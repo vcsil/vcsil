@@ -41,12 +41,13 @@ Last Updated: Wednesday, November 23rd, 2022, 9:32:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⬆️ Pushed 1 commit(s) to [vcsil/vcsil](https://github.com/vcsil/vcsil)
 2. 🔱 Forked [vcsil/recent-activity](https://github.com/vcsil/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 3. ⬆️ Pushed 1 commit(s) to [vcsil/vcsil](https://github.com/vcsil/vcsil)
 4. ⬆️ Pushed 1 commit(s) to [vcsil/vcsil](https://github.com/vcsil/vcsil)
 5. 🔱 Forked [vcsil/codeSTACKr](https://github.com/vcsil/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-<!--RECENT_ACTIVITY:end-->
+ <!--RECENT_ACTIVITY:end-->
 
 </details>
 
@@ -77,7 +78,7 @@ No activity tracked
 
 <br/>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
