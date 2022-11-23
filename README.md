@@ -33,15 +33,26 @@ Here are some ideas to get you started:
 
 </div>
 
-📊 **this week i spent my time on:**
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-<!--START_SECTION:waka-->
+</details>
+
+<details>
+  <summary>📊 This week i spent my time on:</summary>
+
+  <!--START_SECTION:waka-->
 
 ```text
 No activity tracked
 ```
 
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
+</details>
 
 ![](https://raw.githubusercontent.com/vcsil/vcsil/output/github-contribution-grid-snake.svg)
 
