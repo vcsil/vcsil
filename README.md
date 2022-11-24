@@ -56,7 +56,11 @@ Last Updated: Thursday, November 24th, 2022, 6:16:04 AM
   <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown     44 mins         ██████████▓░░░░░░░░░░░░░░   42.21 %
+YAML         39 mins         █████████▒░░░░░░░░░░░░░░░   37.99 %
+JavaScript   18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
+JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
