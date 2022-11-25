@@ -37,17 +37,17 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 25th, 2022, 12:01:52 PM
+Last Updated: Friday, November 25th, 2022, 3:39:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [vcsil/Tweteroo-Front](https://github.com/vcsil/Tweteroo-Front)
-2. 📔 Created new repository [vcsil/Tweteroo-Front](https://github.com/vcsil/Tweteroo-Front)
-3. ⬆️ Pushed 1 commit(s) to [vcsil/vcsil](https://github.com/vcsil/vcsil)
+1. ⬆️ Pushed 2 commit(s) to [vcsil/Tweteroo-API](https://github.com/vcsil/Tweteroo-API)
+2. ⬆️ Pushed 1 commit(s) to [vcsil/Tweteroo-API](https://github.com/vcsil/Tweteroo-API)
+3. ⬆️ Pushed 1 commit(s) to [vcsil/Tweteroo-API](https://github.com/vcsil/Tweteroo-API)
 4. ⬆️ Pushed 1 commit(s) to [vcsil/vcsil](https://github.com/vcsil/vcsil)
-5. ⬆️ Pushed 1 commit(s) to [vcsil/vcsil](https://github.com/vcsil/vcsil)
-6. ⬆️ Pushed 1 commit(s) to [vcsil/vcsil](https://github.com/vcsil/vcsil)
-7. ⬆️ Pushed 1 commit(s) to [vcsil/vcsil](https://github.com/vcsil/vcsil)
+5. ⬆️ Pushed 4 commit(s) to [vcsil/Tweteroo-API](https://github.com/vcsil/Tweteroo-API)
+6. ⬆️ Pushed 2 commit(s) to [vcsil/Tweteroo-Front](https://github.com/vcsil/Tweteroo-Front)
+7. 📔 Created new repository [vcsil/Tweteroo-Front](https://github.com/vcsil/Tweteroo-Front)
  <!--RECENT_ACTIVITY:end-->
 
 </details>
