@@ -58,11 +58,8 @@ Last Updated: Wednesday, November 30th, 2022, 4:12:17 AM
   <!--START_SECTION:waka-->
 
 ```text
-JavaScript   6 hrs 33 mins   ███████████████████░░░░░░   76.46 %
-YAML         1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
-Markdown     44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+JavaScript   6 hrs 15 mins   ███████████████████▓░░░░░   79.12 %
+Other        40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
 ```
 
 <!--END_SECTION:waka-->
