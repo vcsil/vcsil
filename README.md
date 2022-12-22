@@ -58,7 +58,7 @@ Last Updated: Thursday, December 22nd, 2022, 3:13:23 AM
   <!--START_SECTION:waka-->
 
 ```text
-Other   9 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
