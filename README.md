@@ -58,10 +58,8 @@ Last Updated: Saturday, February 11th, 2023, 3:12:33 AM
   <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 13 mins    ███████████████████▒░░░░░   77.03 %
-CSS          12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
-JSON         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-HTML         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+JavaScript   31 mins         █████████████████████▓░░░   86.12 %
+JSON         5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
 ```
 
 <!--END_SECTION:waka-->
