@@ -58,8 +58,7 @@ Last Updated: Thursday, February 23rd, 2023, 3:13:53 AM
   <!--START_SECTION:waka-->
 
 ```text
-PHP    24 mins         ██████████████████████▓░░   91.08 %
-JSON   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
