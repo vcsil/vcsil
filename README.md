@@ -58,7 +58,12 @@ Last Updated: Thursday, March 23rd, 2023, 3:12:55 AM
   <!--START_SECTION:waka-->
 
 ```text
-Python   0 secs          █████████████████████████   100.00 %
+JavaScript   18 mins         ███████████████████████░░   91.77 %
+Python       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
