@@ -22,13 +22,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="left">
-    <img width="56%" src="https://github-readme-stats.vercel.app/api?username=vcsil&hide_rank=false&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&title_color=002FFF&bg_color=0d1117&disable_animations=false"/>
-    <img width="40%" src="http://github-readme-streak-stats.herokuapp.com?user=vcsil&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
-    <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vcsil&hide=vhdl&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&title_color=002FFF&hide_border=true&border_radius=15&bg_color=0d1117&langs_count=6"/>
-    <img width="55%" src="https://activity-graph.herokuapp.com/graph?username=vcsil&theme=dracula&line=002FFF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" />
-</p>
-
 <div align="center">
 
 </div>
@@ -41,6 +34,7 @@ Last Updated: Thursday, March 30th, 2023, 4:13:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+
 1. ⬆️ Pushed 1 commit(s) to [vcsil/Interactive-Flowchart-UFG](https://github.com/vcsil/Interactive-Flowchart-UFG)<br>
 2. ⬆️ Pushed 1 commit(s) to [vcsil/Interactive-Flowchart-UFG](https://github.com/vcsil/Interactive-Flowchart-UFG)<br>
 3. 🔱 Forked [vcsil/Interactive-Flowchart-UFG](https://github.com/vcsil/Interactive-Flowchart-UFG) from [cemarciano/Interactive-Flowchart](https://github.com/cemarciano/Interactive-Flowchart)<br>
@@ -66,8 +60,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 </details>
-
-![](https://raw.githubusercontent.com/vcsil/vcsil/output/github-contribution-grid-snake.svg)
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
