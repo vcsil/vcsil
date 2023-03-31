@@ -51,9 +51,7 @@ Last Updated: Friday, March 31st, 2023, 3:13:18 AM
   <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 41 mins    █████████████████████████   99.75 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
