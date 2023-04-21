@@ -51,7 +51,7 @@ Last Updated: Friday, April 21st, 2023, 3:13:04 AM
   <!--START_SECTION:waka-->
 
 ```text
-Other   13 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
