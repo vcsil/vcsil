@@ -50,7 +50,7 @@ Last Updated: Friday, June 2nd, 2023, 3:12:08 AM
 
   <!--START_SECTION:waka-->
 
-```text
+```txt
 Python   5 mins          █████████████████████████   100.00 %
 ```
 
