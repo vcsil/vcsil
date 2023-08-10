@@ -51,8 +51,9 @@ Last Updated: Thursday, August 10th, 2023, 3:12:32 AM
   <!--START_SECTION:waka-->
 
 ```txt
-C      1 hr 16 mins    █████████████████████████   99.50 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+C             5 hrs 21 mins   ███████████████████████▓░   94.28 %
+JSON          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Objective-C   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->
