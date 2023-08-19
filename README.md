@@ -51,11 +51,7 @@ Last Updated: Saturday, August 19th, 2023, 3:10:36 AM
   <!--START_SECTION:waka-->
 
 ```txt
-C             8 hrs 29 mins   ████████████████████████░   96.38 %
-C++           16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Markdown      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Git Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
