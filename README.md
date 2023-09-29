@@ -30,17 +30,17 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 28th, 2023, 4:07:45 AM
+Last Updated: Friday, September 29th, 2023, 3:12:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [vcsil/Interactive-Flowchart-UFG](https://github.com/vcsil/Interactive-Flowchart-UFG)<br>
-2. ⬆️ Pushed 1 commit(s) to [vcsil/rabbit-to-the-hole](https://github.com/vcsil/rabbit-to-the-hole)<br>
+1. 📔 Created new repository [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
+2. ⬆️ Pushed 1 commit(s) to [vcsil/Interactive-Flowchart-UFG](https://github.com/vcsil/Interactive-Flowchart-UFG)<br>
 3. ⬆️ Pushed 1 commit(s) to [vcsil/rabbit-to-the-hole](https://github.com/vcsil/rabbit-to-the-hole)<br>
 4. ⬆️ Pushed 1 commit(s) to [vcsil/rabbit-to-the-hole](https://github.com/vcsil/rabbit-to-the-hole)<br>
 5. ⬆️ Pushed 1 commit(s) to [vcsil/rabbit-to-the-hole](https://github.com/vcsil/rabbit-to-the-hole)<br>
-6. 🔱 Forked [vcsil/rabbit-to-the-hole](https://github.com/vcsil/rabbit-to-the-hole) from [MrFrenik/gs_project_template](https://github.com/MrFrenik/gs_project_template)<br>
-7. ⬆️ Pushed 2 commit(s) to [vcsil/compararArquivosOFX](https://github.com/vcsil/compararArquivosOFX)<br>
+6. ⬆️ Pushed 1 commit(s) to [vcsil/rabbit-to-the-hole](https://github.com/vcsil/rabbit-to-the-hole)<br>
+7. 🔱 Forked [vcsil/rabbit-to-the-hole](https://github.com/vcsil/rabbit-to-the-hole) from [MrFrenik/gs_project_template](https://github.com/MrFrenik/gs_project_template)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
