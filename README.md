@@ -51,9 +51,7 @@ Last Updated: Friday, November 3rd, 2023, 3:12:48 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Java         3 hrs 47 mins   █████████████████████████   99.49 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
