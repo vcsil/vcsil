@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 16th, 2023, 4:11:30 AM
+Last Updated: Friday, November 17th, 2023, 3:13:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -38,9 +38,9 @@ Last Updated: Thursday, November 16th, 2023, 4:11:30 AM
 2. ⬆️ Pushed 1 commit(s) to [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
 3. ⬆️ Pushed 1 commit(s) to [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
 4. ⬆️ Pushed 1 commit(s) to [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
-5. ⬆️ Pushed 2 commit(s) to [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
-6. 📔 Created new repository [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
-7. ⬆️ Pushed 1 commit(s) to [vcsil/Interactive-Flowchart-UFG](https://github.com/vcsil/Interactive-Flowchart-UFG)<br>
+5. ⬆️ Pushed 1 commit(s) to [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
+6. ⬆️ Pushed 2 commit(s) to [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
+7. 📔 Created new repository [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
