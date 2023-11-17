@@ -51,11 +51,11 @@ Last Updated: Friday, November 17th, 2023, 3:13:24 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Java         2 hrs 27 mins   ███████████████████████▒░   93.39 %
-Other        6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-JavaScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Java         3 hrs 18 mins   ██████████████████████▒░░   89.39 %
+JavaScript   16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
