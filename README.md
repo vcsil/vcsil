@@ -22,6 +22,13 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<p align="left">
+    <img width="56%" src="https://github-readme-stats-vcsil.vercel.app/api?username=vcsil&hide_rank=false&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&title_color=002FFF&bg_color=0d1117&disable_animations=false"/>
+    <img width="40%" src="http://github-readme-streak-stats.herokuapp.com?user=vcsil&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
+    <img width="43%" src="https://github-readme-stats-vcsil.vercel.app/api/top-langs?username=vcsil&hide=vhdl&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&title_color=002FFF&hide_border=true&border_radius=15&bg_color=0d1117&langs_count=6"/>
+    <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=vcsil&theme=dracula&line=002FFF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" />
+</p>
+
 <div align="center">
 
 </div>
@@ -97,7 +104,16 @@ Text    0 secs          ▒░░░░░░░░░░░░░░░░░�
 
 <!-- ![](https://komarev.com/ghpvc/?color=blue&style=flat&username=vcsil) -->
 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=vcsil.vcsil" alt="Visits"></p>
+<div align="left">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="left">
+  <img
+    src="https://profile-counter.glitch.me/vcsil/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
 
 <p align="center">
   <br/>
