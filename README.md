@@ -23,21 +23,32 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-<a href="https://github.com/vcsil">
+  <a href="https://github.com/vcsil">
     <picture>
       <source width="56%"
         srcset="https://github-readme-stats-vcsil.vercel.app/api?username=vcsil&title_color=002FFF&text_color=FFFFFF&icon_color=002FFF&hide_border=true&rank_icon=percentile&show_icons=true&include_all_commits=true&border_radius=15&bg_color=00000000"
-        media="(prefers-color-scheme: dark)"
+        media="(prefers-color-scheme: dark)" alt="GitHub Stats"
       />
       <source width="56%"
         srcset="https://github-readme-stats-vcsil.vercel.app/api?username=vcsil&title_color=002FFF&text_color=000000&icon_color=002FFF&hide_border=true&rank_icon=percentile&show_icons=true&include_all_commits=true&border_radius=15&bg_color=00000000"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="GitHub Stats"
       />
-      <img width="56%" src="https://github-readme-stats-vcsil.vercel.app/api?username=MatheusBruno&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&disable_animations=false" />
+      <img width="56%" src="https://github-readme-stats-vcsil.vercel.app/api?username=vcsil&theme=dracula&title_color=002FFF&text_color=FFFFFF&icon_color=002FFF&hide_border=true&rank_icon=percentile&show_icons=true&include_all_commits=true&border_radius=15" alt="GitHub Stats" />
     </picture>
-    <img width="40%" src="http://github-readme-streak-stats.herokuapp.com?user=vcsil&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
+    <picture>
+      <source width="40%"
+        srcset="https://streak-stats.demolab.com?user=vcsil&theme=transparent&hide_border=true&border_radius=15&mode=weekly&stroke=263238&ring=002FFF&fire=FB3640&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=002FFF&sideLabels=FFFFFF&dates=5C7AFF"
+        media="(prefers-color-scheme: dark)" alt="GitHub Streak"
+      />
+      <source width="40%"
+        srcset="https://streak-stats.demolab.com?user=vcsil&theme=transparent&hide_border=true&border_radius=15&mode=weekly&stroke=263238&ring=002FFF&fire=FB3640&currStreakNum=000000&currStreakLabel=000000&sideNums=002FFF&sideLabels=000000&dates=5C7AFF"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="GitHub Streak"
+      />
+      <img width="40%" src="https://streak-stats.demolab.com?user=vcsil&theme=dracula&hide_border=true&border_radius=15&mode=weekly&stroke=263238&ring=002FFF&fire=FB3640&currStreakNum=000000&currStreakLabel=000000&sideNums=002FFF&sideLabels=000000&dates=5C7AFF" alt="GitHub Streak"/>
+    </picture>
     <img width="43%" src="https://github-readme-stats-vcsil.vercel.app/api/top-langs?username=vcsil&hide=vhdl&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&title_color=002FFF&hide_border=true&border_radius=15&bg_color=0d1117&langs_count=6"/>
-    <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=vcsil&theme=dracula&line=002FFF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" /></a>
+    <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=vcsil&theme=dracula&line=002FFF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" />
+  </a>
 </p>
 
 <div align="center">
