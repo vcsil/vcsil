@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://github.com/vcsil">
-    <img width="56%" src="https://github-readme-stats-vcsil.vercel.app/api?username=vcsil&include_all_commits=true&show_icons=true&theme=transparent&icon_color=DAD3AF&hide_border=true&border_radius=15&title_color=002FFF&bg_color=0d1117&disable_animations=false"/>
+    <img width="56%" src="https://github-readme-stats-vcsil.vercel.app/api?username=vcsil&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&border_radius=15&title_color=002FFF&disable_animations=false"/>
     <img width="40%" src="http://github-readme-streak-stats.herokuapp.com?user=vcsil&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
     <img width="43%" src="https://github-readme-stats-vcsil.vercel.app/api/top-langs?username=vcsil&hide=vhdl&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&title_color=002FFF&hide_border=true&border_radius=15&bg_color=0d1117&langs_count=6"/>
     <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=vcsil&theme=dracula&line=002FFF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" /></a>
