@@ -13,35 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-  /* Estilo padrão da div */
-  .grade-cards{
-    border: 0px solid white;
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-
-  .grade-cards div{
-    width: 50%;
-  }
-
-  /* Altera o estilo quando a largura da tela é menor que 600 pixels */
-  @media screen and (max-width: 600px) {
-    .grade-cards {
-      display: center;
-      justify-content: space-between;
-      align-items: center;
-      flex-direction: column;
-    }
-
-    .grade-cards div{
-      width: 100%;
-    }
-  }
-</style>
-
 <p align="center">
   <span>
     <img align="center" width="510" src="./images/programming-banner.svg" />
@@ -51,8 +22,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<div class=grade-cards>
-  <div>
+<div style="border: 0px solid white; width: 100%; display: flex; flex-wrap: wrap; justify-content: space-between; @media screen and (max-width: 600px) {display: center; justify-content: space-between; align-items: center; flex-direction: column;}">
+  <div style="width: 50%; @media screen and (max-width: 600px) { width: 100%; }">
     <picture>
       <source width="100%"
         srcset="https://github-readme-stats-vcsil.vercel.app/api?username=vcsil&title_color=002FFF&text_color=FFFFFF&icon_color=002FFF&hide_border=true&rank_icon=percentile&show_icons=true&include_all_commits=true&border_radius=15&bg_color=00000000"
@@ -65,7 +36,7 @@ Here are some ideas to get you started:
       <img width="100%" src="https://github-readme-stats-vcsil.vercel.app/api?username=vcsil&theme=dracula&title_color=002FFF&text_color=FFFFFF&icon_color=002FFF&hide_border=true&rank_icon=percentile&show_icons=true&include_all_commits=true&border_radius=15" alt="GitHub Stats" />
     </picture>
   </div>
-  <div>
+  <div style="width: 50%;">
     <picture>
       <source width="100%"
         srcset="https://streak-stats.demolab.com?user=vcsil&theme=transparent&hide_border=true&border_radius=15&mode=weekly&stroke=263238&ring=002FFF&fire=FB3640&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=002FFF&sideLabels=FFFFFF&dates=5C7AFF"
@@ -78,7 +49,7 @@ Here are some ideas to get you started:
       <img width="100%" src="https://streak-stats.demolab.com?user=vcsil&theme=dracula&hide_border=true&border_radius=15&mode=weekly&stroke=263238&ring=002FFF&fire=FB3640&currStreakNum=000000&currStreakLabel=000000&sideNums=002FFF&sideLabels=000000&dates=5C7AFF" alt="GitHub Streak"/>
     </picture>
   </div>
-  <div>
+  <div style="width: 50%;">
     <picture>
       <source width="100%"
         srcset="https://github-readme-stats-vcsil.vercel.app/api/top-langs?username=vcsil&title_color=002FFF&text_color=FFFFFF&bg_color=00000000&hide_border=true&border_radius=15&hide=vhdl&layout=compact&langs_count=6"
@@ -91,7 +62,7 @@ Here are some ideas to get you started:
       <img width="100%" src="https://github-readme-stats-vcsil.vercel.app/api/top-langs?username=vcsil&title_color=002FFF&theme=dracula&hide_border=true&border_radius=15&hide=vhdl&layout=compact&langs_count=6" alt="GitHub Langs"/>
     </picture>
   </div>
-  <div>
+  <div style="width: 50%;">
     <picture>
       <source width="100%"
         srcset="https://github-readme-activity-graph.vercel.app/graph?username=vcsil&bg_color=00000000&color=FFFFFF&title_color=002FFF&line=002FFF&point=FFFFFF&area_color=002FFF&area=true&hide_border=true&height=600"
