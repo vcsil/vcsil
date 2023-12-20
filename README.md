@@ -169,3 +169,39 @@ XML        0 secs          ░░░░░░░░░░░░░░░░░�
   <br/>
   <a href="https://storyset.com/web">Illustration by Freepik Storyset</a>
 </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown Responsivo</title>
+    <style>
+        /* Estilo padrão da div */
+        .minha-div {
+            width: 100px;
+            height: 100px;
+            background-color: red;
+            margin: 10px;
+        }
+        /* Altera o estilo quando a largura da tela é menor que 600 pixels */
+        @media screen and (max-width: 600px) {
+            .minha-div {
+                background-color: blue;
+            }
+        }
+        /* Altera o estilo quando a largura da tela é menor que 400 pixels */
+        @media screen and (max-width: 400px) {
+            .minha-div {
+                background-color: green;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="minha-div"></div>
+    <div id="markdown-content">
+        <!-- Seu conteúdo Markdown aqui -->
+        <p>Seu conteúdo Markdown aqui...</p>
+    </div>
+</body>
+</html>
