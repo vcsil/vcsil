@@ -22,60 +22,54 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<div style="border: 0px solid white; width: 100%; display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="width: 50%;">
+<p align="left">
+  <a href="https://github.com/vcsil">
     <picture>
-      <source width="100%"
+      <source width="54%"
         srcset="https://github-readme-stats-vcsil.vercel.app/api?username=vcsil&title_color=002FFF&text_color=FFFFFF&icon_color=002FFF&hide_border=true&rank_icon=percentile&show_icons=true&include_all_commits=true&border_radius=15&bg_color=00000000"
         media="(prefers-color-scheme: dark)" alt="GitHub Stats"
       />
-      <source width="100%"
+      <source width="54%"
         srcset="https://github-readme-stats-vcsil.vercel.app/api?username=vcsil&title_color=002FFF&text_color=000000&icon_color=002FFF&hide_border=true&rank_icon=percentile&show_icons=true&include_all_commits=true&border_radius=15&bg_color=00000000"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="GitHub Stats"
       />
-      <img width="100%" src="https://github-readme-stats-vcsil.vercel.app/api?username=vcsil&theme=dracula&title_color=002FFF&text_color=FFFFFF&icon_color=002FFF&hide_border=true&rank_icon=percentile&show_icons=true&include_all_commits=true&border_radius=15" alt="GitHub Stats" />
+      <img width="54%" src="https://github-readme-stats-vcsil.vercel.app/api?username=vcsil&theme=dracula&title_color=002FFF&text_color=FFFFFF&icon_color=002FFF&hide_border=true&rank_icon=percentile&show_icons=true&include_all_commits=true&border_radius=15" alt="GitHub Stats" />
     </picture>
-  </div>
-  <div style="width: 50%;">
     <picture>
-      <source width="100%"
+      <source width="44%"
         srcset="https://streak-stats.demolab.com?user=vcsil&theme=transparent&hide_border=true&border_radius=15&mode=weekly&stroke=263238&ring=002FFF&fire=FB3640&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=002FFF&sideLabels=FFFFFF&dates=5C7AFF"
         media="(prefers-color-scheme: dark)" alt="GitHub Streak"
       />
-      <source width="100%"
+      <source width="44%"
         srcset="https://streak-stats.demolab.com?user=vcsil&theme=transparent&hide_border=true&border_radius=15&mode=weekly&stroke=263238&ring=002FFF&fire=FB3640&currStreakNum=000000&currStreakLabel=000000&sideNums=002FFF&sideLabels=000000&dates=5C7AFF"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="GitHub Streak"
       />
-      <img width="100%" src="https://streak-stats.demolab.com?user=vcsil&theme=dracula&hide_border=true&border_radius=15&mode=weekly&stroke=263238&ring=002FFF&fire=FB3640&currStreakNum=000000&currStreakLabel=000000&sideNums=002FFF&sideLabels=000000&dates=5C7AFF" alt="GitHub Streak"/>
+      <img width="44%" src="https://streak-stats.demolab.com?user=vcsil&theme=dracula&hide_border=true&border_radius=15&mode=weekly&stroke=263238&ring=002FFF&fire=FB3640&currStreakNum=000000&currStreakLabel=000000&sideNums=002FFF&sideLabels=000000&dates=5C7AFF" alt="GitHub Streak"/>
     </picture>
-  </div>
-  <div style="width: 50%;">
     <picture>
-      <source width="100%"
+      <source width="43%"
         srcset="https://github-readme-stats-vcsil.vercel.app/api/top-langs?username=vcsil&title_color=002FFF&text_color=FFFFFF&bg_color=00000000&hide_border=true&border_radius=15&hide=vhdl&layout=compact&langs_count=6"
         media="(prefers-color-scheme: dark)" alt="GitHub Langs"
       />
-      <source width="100%"
+      <source width="43%"
         srcset="https://github-readme-stats-vcsil.vercel.app/api/top-langs?username=vcsil&title_color=002FFF&text_color=000000&bg_color=00000000&hide_border=true&border_radius=15&hide=vhdl&layout=compact&langs_count=6"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="GitHub Langs"
       />
-      <img width="100%" src="https://github-readme-stats-vcsil.vercel.app/api/top-langs?username=vcsil&title_color=002FFF&theme=dracula&hide_border=true&border_radius=15&hide=vhdl&layout=compact&langs_count=6" alt="GitHub Langs"/>
+      <img width="43%" src="https://github-readme-stats-vcsil.vercel.app/api/top-langs?username=vcsil&title_color=002FFF&theme=dracula&hide_border=true&border_radius=15&hide=vhdl&layout=compact&langs_count=6" alt="GitHub Langs"/>
     </picture>
-  </div>
-  <div style="width: 50%;">
     <picture>
-      <source width="100%"
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=vcsil&bg_color=00000000&color=FFFFFF&title_color=002FFF&line=002FFF&point=FFFFFF&area_color=002FFF&area=true&hide_border=true&height=600"
+      <source width="55%"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=vcsil&bg_color=00000000&color=FFFFFF&title_color=002FFF&line=002FFF&point=FFFFFF&area_color=002FFF&area=true&hide_border=true"
         media="(prefers-color-scheme: dark)" alt="GitHub Commits Graph"
       />
-      <source width="100%"
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=vcsil&bg_color=00000000&color=000000&title_color=002FFF&line=002FFF&point=000000&area_color=002FFF&area=true&hide_border=true&height=600"
+      <source width="55%"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=vcsil&bg_color=00000000&color=000000&title_color=002FFF&line=002FFF&point=000000&area_color=002FFF&area=true&hide_border=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="GitHub Commits Graph"
       />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vcsil&theme=dracula&color=000000&title_color=002FFF&line=002FFF&point=000000&area_color=002FFF&area=true&hide_border=true&height=600" alt="GitHub Commits Graph"/>
+      <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=vcsil&theme=dracula&color=000000&title_color=002FFF&line=002FFF&point=000000&area_color=002FFF&area=true&hide_border=true" alt="GitHub Commits Graph"/>
     </picture>
-  </div>
-</div>
+  </a>
+</p>
 
 <div align="center">
 
@@ -169,39 +163,3 @@ XML        0 secs          ░░░░░░░░░░░░░░░░░�
   <br/>
   <a href="https://storyset.com/web">Illustration by Freepik Storyset</a>
 </p>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Markdown Responsivo</title>
-    <style>
-        /* Estilo padrão da div */
-        .minha-div {
-            width: 100px;
-            height: 100px;
-            background-color: red;
-            margin: 10px;
-        }
-        /* Altera o estilo quando a largura da tela é menor que 600 pixels */
-        @media screen and (max-width: 600px) {
-            .minha-div {
-                background-color: blue;
-            }
-        }
-        /* Altera o estilo quando a largura da tela é menor que 400 pixels */
-        @media screen and (max-width: 400px) {
-            .minha-div {
-                background-color: green;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="minha-div"></div>
-    <div id="markdown-content">
-        <!-- Seu conteúdo Markdown aqui -->
-        <p>Seu conteúdo Markdown aqui...</p>
-    </div>
-</body>
-</html>
