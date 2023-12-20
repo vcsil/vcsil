@@ -22,8 +22,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<div style="border: 0px solid white; width: 100%; display: flex; flex-wrap: wrap; justify-content: space-between; @media screen and (max-width: 600px) {display: center; justify-content: space-between; align-items: center; flex-direction: column;}">
-  <div style="width: 50%; @media screen and (max-width: 600px) { width: 100%; }">
+<div style="border: 0px solid white; width: 100%; display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="width: 50%;">
     <picture>
       <source width="100%"
         srcset="https://github-readme-stats-vcsil.vercel.app/api?username=vcsil&title_color=002FFF&text_color=FFFFFF&icon_color=002FFF&hide_border=true&rank_icon=percentile&show_icons=true&include_all_commits=true&border_radius=15&bg_color=00000000"
