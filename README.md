@@ -46,8 +46,28 @@ Here are some ideas to get you started:
       />
       <img width="44%" src="https://streak-stats.demolab.com?user=vcsil&theme=dracula&hide_border=true&border_radius=15&mode=weekly&stroke=263238&ring=002FFF&fire=FB3640&currStreakNum=000000&currStreakLabel=000000&sideNums=002FFF&sideLabels=000000&dates=5C7AFF" alt="GitHub Streak"/>
     </picture>
-    <img width="43%" src="https://github-readme-stats-vcsil.vercel.app/api/top-langs?username=vcsil&hide=vhdl&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&title_color=002FFF&hide_border=true&border_radius=15&bg_color=0d1117&langs_count=6"/>
-    <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=vcsil&theme=dracula&line=002FFF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" />
+    <picture>
+      <source width="43%"
+        srcset="https://github-readme-stats-vcsil.vercel.app/api/top-langs?username=vcsil&title_color=002FFF&text_color=FFFFFF&bg_color=00000000&hide_border=true&border_radius=15&hide=vhdl&layout=compact&langs_count=6"
+        media="(prefers-color-scheme: dark)" alt="GitHub Langs"
+      />
+      <source width="43%"
+        srcset="https://github-readme-stats-vcsil.vercel.app/api/top-langs?username=vcsil&title_color=002FFF&text_color=000000&bg_color=00000000&hide_border=true&border_radius=15&hide=vhdl&layout=compact&langs_count=6"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="GitHub Langs"
+      />
+      <img width="43%" src="https://github-readme-stats-vcsil.vercel.app/api/top-langs?username=vcsil&title_color=002FFF&theme=dracula&hide_border=true&border_radius=15&hide=vhdl&layout=compact&langs_count=6" alt="GitHub Langs"/>
+    </picture>
+    <picture>
+      <source width="55%"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=vcsil&bg_color=00000000&color=FFFFFF&title_color=002FFF&line=002FFF&point=FFFFFF&area_color=002FFF&area=true&hide_border=true"
+        media="(prefers-color-scheme: dark)" alt="GitHub Commits Graph"
+      />
+      <source width="55%"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=vcsil&bg_color=00000000&color=000000&title_color=002FFF&line=002FFF&point=000000&area_color=002FFF&area=true&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" alt="GitHub Commits Graph"
+      />
+      <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=vcsil&theme=dracula&color=000000&title_color=002FFF&line=002FFF&point=000000&area_color=002FFF&area=true&hide_border=true" alt="GitHub Commits Graph"/>
+    </picture>
   </a>
 </p>
 
