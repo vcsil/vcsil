@@ -100,11 +100,11 @@ Last Updated: Friday, December 22nd, 2023, 3:13:00 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Markdown   6 hrs 21 mins   ████████████████████████▒   97.18 %
+Markdown   6 hrs 21 mins   ████████████████████████▒   96.75 %
 XML        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 Python     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 SQL        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
