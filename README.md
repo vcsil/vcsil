@@ -100,10 +100,7 @@ Last Updated: Wednesday, December 27th, 2023, 3:13:03 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Markdown   5 hrs 39 mins   ████████████████████████▒   96.90 %
-XML        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Python     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Other   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
