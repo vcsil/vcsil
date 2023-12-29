@@ -100,7 +100,7 @@ Last Updated: Friday, December 29th, 2023, 3:13:24 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Other   2 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
