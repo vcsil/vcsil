@@ -100,9 +100,9 @@ Last Updated: Friday, January 12th, 2024, 3:13:40 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Other   1 hr 40 mins    ███████████████░░░░░░░░░░   59.65 %
-SQL     58 mins         ████████▓░░░░░░░░░░░░░░░░   34.60 %
-YAML    9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+SQL     1 hr 46 mins    ████████████▒░░░░░░░░░░░░   49.01 %
+Other   1 hr 40 mins    ███████████▓░░░░░░░░░░░░░   46.50 %
+YAML    9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
 ```
 
 <!--END_SECTION:waka-->
