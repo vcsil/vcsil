@@ -79,17 +79,17 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 23rd, 2024, 4:12:28 AM
+Last Updated: Wednesday, January 24th, 2024, 3:13:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
+1. ⬆️ Pushed 1 commit(s) to [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
 2. ⬆️ Pushed 1 commit(s) to [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
 3. ⬆️ Pushed 1 commit(s) to [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
-4. ⬆️ Pushed 1 commit(s) to [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
+4. ⬆️ Pushed 2 commit(s) to [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
 5. ⬆️ Pushed 1 commit(s) to [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
-6. ⬆️ Pushed 2 commit(s) to [vcsil/bling_rw](https://github.com/vcsil/bling_rw)<br>
-7. 🎉 Merged PR [#9](https://github.com/vcsil/bling_rw/pull/9) in [vcsil/bling_rw](https://github.com/vcsil/bling_rw)<br>
+6. ⬆️ Pushed 1 commit(s) to [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
+7. ⬆️ Pushed 1 commit(s) to [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
