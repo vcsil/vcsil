@@ -100,11 +100,11 @@ Last Updated: Monday, January 29th, 2024, 3:12:43 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Docker       7 hrs 16 mins   █████████▓░░░░░░░░░░░░░░░   39.26 %
-JavaScript   3 hrs 49 mins   █████░░░░░░░░░░░░░░░░░░░░   20.63 %
-YAML         3 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
-JSON         1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-Bash         1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+Docker       6 hrs 21 mins   ████████▒░░░░░░░░░░░░░░░░   33.41 %
+JavaScript   3 hrs 49 mins   █████░░░░░░░░░░░░░░░░░░░░   20.13 %
+YAML         2 hrs 39 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
+Bash         1 hr 40 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+JSON         1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
 ```
 
 <!--END_SECTION:waka-->
