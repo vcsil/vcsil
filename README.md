@@ -100,11 +100,8 @@ Last Updated: Monday, February 5th, 2024, 3:12:57 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 22 mins    ████████▓░░░░░░░░░░░░░░░░   34.59 %
-Docker       1 hr 19 mins    ████████▒░░░░░░░░░░░░░░░░   33.61 %
-Text         28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-Bash         18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-Git Config   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Python     19 mins         ██████████████████▒░░░░░░   72.80 %
+Markdown   7 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.20 %
 ```
 
 <!--END_SECTION:waka-->
