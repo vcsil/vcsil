@@ -100,8 +100,7 @@ Last Updated: Tuesday, February 6th, 2024, 3:12:47 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Python     19 mins         ██████████████████▒░░░░░░   72.80 %
-Markdown   7 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.20 %
+Markdown   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
