@@ -79,17 +79,17 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 11th, 2024, 3:59:31 AM
+Last Updated: Monday, February 12th, 2024, 3:12:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
+1. ⭐ Starred [tremorlabs/tremor](https://github.com/tremorlabs/tremor)<br>
 2. ⬆️ Pushed 1 commit(s) to [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
-3. ⬆️ Pushed 2 commit(s) to [vcsil/bling_rw](https://github.com/vcsil/bling_rw)<br>
-4. ⬆️ Pushed 3 commit(s) to [vcsil/bling_rw](https://github.com/vcsil/bling_rw)<br>
-5. 🎉 Merged PR [#12](https://github.com/vcsil/bling_rw/pull/12) in [vcsil/bling_rw](https://github.com/vcsil/bling_rw)<br>
-6. 💪 Opened PR [#12](https://github.com/vcsil/bling_rw/pull/12) in [vcsil/bling_rw](https://github.com/vcsil/bling_rw)<br>
-7. ⬆️ Pushed 2 commit(s) to [vcsil/bling_rw](https://github.com/vcsil/bling_rw)<br>
+3. ⬆️ Pushed 1 commit(s) to [vcsil/poo-2023-02](https://github.com/vcsil/poo-2023-02)<br>
+4. ⬆️ Pushed 2 commit(s) to [vcsil/bling_rw](https://github.com/vcsil/bling_rw)<br>
+5. ⬆️ Pushed 3 commit(s) to [vcsil/bling_rw](https://github.com/vcsil/bling_rw)<br>
+6. 🎉 Merged PR [#12](https://github.com/vcsil/bling_rw/pull/12) in [vcsil/bling_rw](https://github.com/vcsil/bling_rw)<br>
+7. 💪 Opened PR [#12](https://github.com/vcsil/bling_rw/pull/12) in [vcsil/bling_rw](https://github.com/vcsil/bling_rw)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
