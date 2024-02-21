@@ -100,11 +100,11 @@ Last Updated: Wednesday, February 21st, 2024, 3:12:44 AM
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 32 mins   ██████████▒░░░░░░░░░░░░░░   40.82 %
-JavaScript   2 hrs 56 mins   ████████▒░░░░░░░░░░░░░░░░   33.76 %
-JSON         55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
-CSS          35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+TypeScript   7 hrs 57 mins   ██████████████▓░░░░░░░░░░   58.77 %
+JavaScript   3 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.62 %
+JSON         59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+CSS          40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
