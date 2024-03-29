@@ -100,8 +100,7 @@ Last Updated: Friday, March 29th, 2024, 3:12:37 AM
   <!--START_SECTION:waka-->
 
 ```txt
-SQL      25 mins         ███████████████▓░░░░░░░░░   63.00 %
-Python   14 mins         █████████▒░░░░░░░░░░░░░░░   37.00 %
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
