@@ -100,11 +100,9 @@ Last Updated: Saturday, April 13th, 2024, 3:10:09 AM
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 45 mins   ██████████████████████▓░░   90.02 %
-Python       24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+TypeScript   2 hrs 52 mins   █████████████████████▓░░░   86.16 %
+Python       24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
