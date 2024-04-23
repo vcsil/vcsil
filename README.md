@@ -100,8 +100,11 @@ Last Updated: Tuesday, April 23rd, 2024, 3:13:40 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Python   2 mins          ██████████████████░░░░░░░   72.41 %
-Other    1 min           ███████░░░░░░░░░░░░░░░░░░   27.59 %
+YAML          1 hr 6 mins     ████████▓░░░░░░░░░░░░░░░░   34.71 %
+Bash          38 mins         █████░░░░░░░░░░░░░░░░░░░░   20.17 %
+JSON          31 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
+Docker        24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
+TypeScript    23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
 ```
 
 <!--END_SECTION:waka-->
