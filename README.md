@@ -100,8 +100,7 @@ Last Updated: Thursday, May 16th, 2024, 3:12:01 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Other   24 mins         █████████████████░░░░░░░░   68.29 %
-YAML    11 mins         ████████░░░░░░░░░░░░░░░░░   31.71 %
+YAML   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
