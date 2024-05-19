@@ -100,7 +100,9 @@ Last Updated: Sunday, May 19th, 2024, 3:13:16 AM
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+SQL      44 mins         ████████████▓░░░░░░░░░░░░   50.38 %
+Other    32 mins         █████████░░░░░░░░░░░░░░░░   36.65 %
+Prisma   11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
 ```
 
 <!--END_SECTION:waka-->
