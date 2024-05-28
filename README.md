@@ -100,10 +100,8 @@ Last Updated: Tuesday, May 28th, 2024, 3:14:31 AM
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   20 mins         █████████████▒░░░░░░░░░░░   53.41 %
-SQL          8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.71 %
-Prisma       6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
-Bash         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+SQL      8 mins          ██████████████▒░░░░░░░░░░   57.59 %
+Prisma   6 mins          ██████████▓░░░░░░░░░░░░░░   42.41 %
 ```
 
 <!--END_SECTION:waka-->
