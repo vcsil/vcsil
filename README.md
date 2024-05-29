@@ -100,8 +100,7 @@ Last Updated: Wednesday, May 29th, 2024, 3:14:41 AM
   <!--START_SECTION:waka-->
 
 ```txt
-SQL      8 mins          ██████████████▒░░░░░░░░░░   57.59 %
-Prisma   6 mins          ██████████▓░░░░░░░░░░░░░░   42.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
