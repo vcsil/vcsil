@@ -100,11 +100,11 @@ Last Updated: Wednesday, July 3rd, 2024, 3:17:04 AM
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   9 hrs 53 mins   ████████████████████░░░░░   79.54 %
-Bash         54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-Prisma       38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-YAML         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-JavaScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+TypeScript   1 hr 27 mins    ████████████░░░░░░░░░░░░░   48.36 %
+Bash         54 mins         ███████▒░░░░░░░░░░░░░░░░░   29.92 %
+YAML         20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+JSON         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
