@@ -100,8 +100,7 @@ Last Updated: Tuesday, July 16th, 2024, 3:16:07 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Bash         3 mins          ████████████████████████▓   99.12 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
