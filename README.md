@@ -100,7 +100,11 @@ Last Updated: Wednesday, July 24th, 2024, 3:15:59 AM
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   0 secs          █████████████████████████   100.00 %
+Prisma       40 mins         ███████████████████░░░░░░   76.49 %
+SQL          9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
+TypeScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
