@@ -100,8 +100,8 @@ Last Updated: Monday, September 9th, 2024, 3:18:03 AM
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 mins          █████████████████░░░░░░░░   68.20 %
-Bash         1 min           ████████░░░░░░░░░░░░░░░░░   31.80 %
+TypeScript   2 mins          ███████████████▒░░░░░░░░░   61.19 %
+Bash         1 min           █████████▓░░░░░░░░░░░░░░░   38.81 %
 ```
 
 <!--END_SECTION:waka-->
