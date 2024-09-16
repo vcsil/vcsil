@@ -100,7 +100,7 @@ Last Updated: Monday, September 16th, 2024, 3:17:58 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Bash   0 secs          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
