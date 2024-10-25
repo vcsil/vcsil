@@ -93,8 +93,7 @@ Last Updated: Friday, October 25th, 2024, 3:18:00 AM
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   16 mins         █████████████████████████   99.38 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
