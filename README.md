@@ -100,11 +100,7 @@ Last Updated: Tuesday, December 31st, 2024, 3:17:42 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Bash         26 mins         ███████████████████▒░░░░░   76.86 %
-Python       7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Python   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
