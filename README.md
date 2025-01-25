@@ -100,8 +100,11 @@ Last Updated: Saturday, January 25th, 2025, 3:15:36 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Bash         11 mins         █████████████░░░░░░░░░░░░   51.83 %
-TypeScript   10 mins         ████████████░░░░░░░░░░░░░   48.17 %
+TypeScript   5 hrs 2 mins    ███████████████████████▒░   92.92 %
+Bash         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
