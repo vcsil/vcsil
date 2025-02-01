@@ -96,11 +96,11 @@ Last Updated: Saturday, February 1st, 2025, 3:16:05 AM
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 29 mins   █████████████████████▓░░░   86.00 %
-Docker       35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-Bash         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-Python       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+TypeScript   2 hrs 38 mins   ██████████████████░░░░░░░   72.04 %
+Docker       35 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
+Python       10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Bash         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Prisma       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
