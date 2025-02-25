@@ -96,8 +96,7 @@ Last Updated: Tuesday, February 25th, 2025, 3:18:08 AM
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 mins          ████████████████████████▓   98.55 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
