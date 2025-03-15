@@ -93,7 +93,7 @@ Last Updated: Saturday, March 15th, 2025, 3:17:10 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Bash   8 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
