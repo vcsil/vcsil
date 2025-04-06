@@ -96,10 +96,7 @@ Last Updated: Saturday, April 5th, 2025, 4:17:24 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Python   4 mins          █████████████████████▓░░░   86.54 %
-YAML     0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
-Bash     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
