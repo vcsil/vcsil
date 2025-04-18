@@ -96,7 +96,11 @@ Last Updated: Friday, April 18th, 2025, 3:19:31 AM
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON     40 mins         ███████████████▒░░░░░░░░░   60.85 %
+YAML     23 mins         ████████▓░░░░░░░░░░░░░░░░   35.16 %
+Python   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
