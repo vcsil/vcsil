@@ -98,11 +98,10 @@ Last Updated: Thursday, April 24th, 2025, 4:15:43 AM
   <!--START_SECTION:waka-->
 
 ```txt
-JSON         2 hrs 52 mins   ██████████████░░░░░░░░░░░   56.63 %
-Other        1 hr 8 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
-YAML         48 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
-Git Config   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Python       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+JSON         2 hrs 35 mins   ██████████████▓░░░░░░░░░░   59.14 %
+Other        1 hr 8 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.94 %
+YAML         26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+Git Config   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 
 <!--END_SECTION:waka-->
