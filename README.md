@@ -96,11 +96,7 @@ Last Updated: Sunday, May 4th, 2025, 4:09:37 AM
   <!--START_SECTION:waka-->
 
 ```txt
-JSON         1 hr 9 mins     ██████████████████▒░░░░░░   73.26 %
-YAML         17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
-Other        7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
