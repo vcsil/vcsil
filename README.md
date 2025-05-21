@@ -96,9 +96,9 @@ Last Updated: Tuesday, May 20th, 2025, 4:19:31 AM
   <!--START_SECTION:waka-->
 
 ```txt
-YAML     35 mins         ████████████████████▓░░░░   83.03 %
-JSON     5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
-Python   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Python   1 hr 13 mins    ████████████████░░░░░░░░░   63.65 %
+YAML     35 mins         ███████▓░░░░░░░░░░░░░░░░░   31.31 %
+JSON     5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
 ```
 
 <!--END_SECTION:waka-->
