@@ -98,11 +98,7 @@ Last Updated: Wednesday, May 28th, 2025, 4:19:07 AM
   <!--START_SECTION:waka-->
 
 ```txt
-YAML         40 mins         ████████▒░░░░░░░░░░░░░░░░   32.67 %
-Docker       38 mins         ████████░░░░░░░░░░░░░░░░░   31.67 %
-Bash         20 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
-JSON         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-Python       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
