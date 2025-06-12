@@ -98,11 +98,7 @@ Last Updated: Wednesday, June 11th, 2025, 4:22:21 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Python       11 mins         █████████████▓░░░░░░░░░░░   54.67 %
-SQL          7 mins          █████████░░░░░░░░░░░░░░░░   36.55 %
-YAML         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
