@@ -98,8 +98,7 @@ Last Updated: Saturday, August 2nd, 2025, 3:59:45 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Other      3 mins          █████████████▒░░░░░░░░░░░   53.39 %
-Markdown   3 mins          ███████████▓░░░░░░░░░░░░░   46.61 %
+Markdown   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
