@@ -94,7 +94,9 @@ Last Updated: Sunday, August 17th, 2025, 4:18:56 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Other   9 mins          █████████████████████████   100.00 %
+Bash       20 mins         ██████████▓░░░░░░░░░░░░░░   43.23 %
+Markdown   15 mins         ████████▒░░░░░░░░░░░░░░░░   33.86 %
+Other      10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
 ```
 
 <!--END_SECTION:waka-->
