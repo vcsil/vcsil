@@ -79,11 +79,16 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 17th, 2025, 4:18:56 AM
+Last Updated: Monday, August 18th, 2025, 3:25:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy)<br>
+1. ⭐ Starred [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi)<br>
+2. ⬆️ Pushed 1 commit(s) to [vcsil/InstaTiger](https://github.com/vcsil/InstaTiger)<br>
+3. ⬆️ Pushed 1 commit(s) to [vcsil/InstaTiger](https://github.com/vcsil/InstaTiger)<br>
+4. 📔 Created new repository [vcsil/InstaTiger](https://github.com/vcsil/InstaTiger)<br>
+5. 📔 Created new repository [vcsil/InstaTiger](https://github.com/vcsil/InstaTiger)<br>
+6. ⭐ Starred [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
