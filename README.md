@@ -99,9 +99,10 @@ Last Updated: Tuesday, August 19th, 2025, 4:20:14 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Bash       20 mins         ██████████▓░░░░░░░░░░░░░░   43.23 %
-Markdown   15 mins         ████████▒░░░░░░░░░░░░░░░░   33.86 %
-Other      10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
+Markdown   22 mins         ██████████░░░░░░░░░░░░░░░   40.09 %
+Bash       20 mins         █████████▒░░░░░░░░░░░░░░░   36.68 %
+Other      10 mins         █████░░░░░░░░░░░░░░░░░░░░   19.44 %
+JSON       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
 ```
 
 <!--END_SECTION:waka-->
