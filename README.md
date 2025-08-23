@@ -79,16 +79,17 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 22nd, 2025, 4:20:33 AM
+Last Updated: Saturday, August 23rd, 2025, 3:19:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi)<br>
-2. ⬆️ Pushed 1 commit(s) to [vcsil/InstaTiger](https://github.com/vcsil/InstaTiger)<br>
-3. ⬆️ Pushed 1 commit(s) to [vcsil/InstaTiger](https://github.com/vcsil/InstaTiger)<br>
-4. 📔 Created new repository [vcsil/InstaTiger](https://github.com/vcsil/InstaTiger)<br>
-5. 📔 Created new repository [vcsil/InstaTiger](https://github.com/vcsil/InstaTiger)<br>
-6. ⭐ Starred [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy)<br>
+1. ⬆️ Pushed 3 commit(s) to [vcsil/InstaTiger](https://github.com/vcsil/InstaTiger)<br>
+2. 🎉 Merged PR [#2](https://github.com/vcsil/InstaTiger/pull/2) in [vcsil/InstaTiger](https://github.com/vcsil/InstaTiger)<br>
+3. 💪 Opened PR [#2](https://github.com/vcsil/InstaTiger/pull/2) in [vcsil/InstaTiger](https://github.com/vcsil/InstaTiger)<br>
+4. ⬆️ Pushed 2 commit(s) to [vcsil/InstaTiger](https://github.com/vcsil/InstaTiger)<br>
+5. ⭐ Starred [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi)<br>
+6. ⬆️ Pushed 1 commit(s) to [vcsil/InstaTiger](https://github.com/vcsil/InstaTiger)<br>
+7. ⬆️ Pushed 1 commit(s) to [vcsil/InstaTiger](https://github.com/vcsil/InstaTiger)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
