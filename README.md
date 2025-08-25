@@ -100,10 +100,8 @@ Last Updated: Sunday, August 24th, 2025, 4:12:33 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Markdown   22 mins         ████████████░░░░░░░░░░░░░   48.57 %
-Bash       20 mins         ███████████░░░░░░░░░░░░░░   44.44 %
-JSON       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-Other      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Markdown   6 mins          ██████████████████▓░░░░░░   74.98 %
+JSON       2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
 ```
 
 <!--END_SECTION:waka-->
