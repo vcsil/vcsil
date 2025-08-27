@@ -100,8 +100,7 @@ Last Updated: Tuesday, August 26th, 2025, 3:59:24 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Markdown   6 mins          ██████████████████▓░░░░░░   74.98 %
-JSON       2 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
