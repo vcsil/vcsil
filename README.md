@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 16th, 2025, 4:14:16 AM
+Last Updated: Wednesday, September 17th, 2025, 3:20:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -88,8 +88,6 @@ Last Updated: Tuesday, September 16th, 2025, 4:14:16 AM
 3. 🎉 Merged PR [#2](https://github.com/vcsil/InstaTiger/pull/2) in [vcsil/InstaTiger](https://github.com/vcsil/InstaTiger)<br>
 4. 💪 Opened PR [#2](https://github.com/vcsil/InstaTiger/pull/2) in [vcsil/InstaTiger](https://github.com/vcsil/InstaTiger)<br>
 5. ⬆️ Pushed 2 commit(s) to [vcsil/InstaTiger](https://github.com/vcsil/InstaTiger)<br>
-6. ⭐ Starred [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi)<br>
-7. ⬆️ Pushed 1 commit(s) to [vcsil/InstaTiger](https://github.com/vcsil/InstaTiger)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
