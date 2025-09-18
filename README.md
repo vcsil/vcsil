@@ -98,9 +98,9 @@ Last Updated: Thursday, September 18th, 2025, 3:20:39 AM
   <!--START_SECTION:waka-->
 
 ```txt
-SQL      2 hrs 29 mins   ████████████████▓░░░░░░░░   67.10 %
-Python   1 hr 5 mins     ███████▒░░░░░░░░░░░░░░░░░   29.20 %
-Other    8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+SQL      3 hrs 39 mins   ███████████████▓░░░░░░░░░   63.33 %
+Python   1 hr 58 mins    ████████▓░░░░░░░░░░░░░░░░   34.16 %
+Other    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 ```
 
 <!--END_SECTION:waka-->
