@@ -98,9 +98,11 @@ Last Updated: Sunday, September 21st, 2025, 4:17:49 AM
   <!--START_SECTION:waka-->
 
 ```txt
-SQL      4 hrs 20 mins   ███████████████▓░░░░░░░░░   62.99 %
-Python   2 hrs 24 mins   ████████▓░░░░░░░░░░░░░░░░   34.91 %
-Other    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+SQL        3 hrs 16 mins   ██████████████▓░░░░░░░░░░   58.46 %
+Python     1 hr 45 mins    ████████░░░░░░░░░░░░░░░░░   31.59 %
+Other      24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Text       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
