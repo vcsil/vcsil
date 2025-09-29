@@ -93,11 +93,7 @@ Last Updated: Sunday, September 28th, 2025, 3:59:27 AM
   <!--START_SECTION:waka-->
 
 ```txt
-SQL        1 hr 24 mins    ██████████████▓░░░░░░░░░░   58.80 %
-Python     26 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.40 %
-Other      24 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
-Text       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
