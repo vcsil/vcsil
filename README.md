@@ -100,9 +100,9 @@ Last Updated: Wednesday, October 29th, 2025, 4:22:54 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Other      46 mins         █████████████████▒░░░░░░░   69.48 %
-Python     20 mins         ███████▓░░░░░░░░░░░░░░░░░   30.28 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Python     20 mins         ████████████████████████▓   98.36 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
