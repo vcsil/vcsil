@@ -94,8 +94,7 @@ Last Updated: Saturday, December 20th, 2025, 4:19:22 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 27 mins   ████████████████████████▒   97.76 %
-Other    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
