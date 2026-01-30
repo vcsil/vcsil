@@ -93,8 +93,7 @@ Last Updated: Friday, January 30th, 2026, 3:39:48 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Other      0 secs          ████████████████▒░░░░░░░░   65.36 %
-Markdown   0 secs          ████████▓░░░░░░░░░░░░░░░░   34.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
