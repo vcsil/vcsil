@@ -93,11 +93,7 @@ Last Updated: Monday, April 27th, 2026, 5:11:52 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Markdown   4 mins                █████████████████░░░░░░░░   67.42 %
-Python     1 min                 █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
-HTML       0 secs                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-Text       0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Other      0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
