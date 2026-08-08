@@ -96,10 +96,7 @@ Last Updated: Friday, August 7th, 2026, 4:04:47 AM
   <!--START_SECTION:waka-->
 
 ```txt
-Markdown     34 mins               █████████▓░░░░░░░░░░░░░░░   39.17 %
-SQL          27 mins               ███████▓░░░░░░░░░░░░░░░░░   31.08 %
-TypeScript   19 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.87 %
-Other        7 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
