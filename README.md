@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 16th, 2026, 11:31:26 AM
+Last Updated: Tuesday, November 17th, 2026, 12:21:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
@@ -87,9 +87,9 @@ Last Updated: Monday, November 16th, 2026, 11:31:26 AM
 2. ⬆️ Pushed undefined commit(s) to [vcsil/compararArquivosOFX](https://github.com/vcsil/compararArquivosOFX)<br>
 3. ⬆️ Pushed undefined commit(s) to [vcsil/compararArquivosOFX](https://github.com/vcsil/compararArquivosOFX)<br>
 4. ⬆️ Pushed undefined commit(s) to [vcsil/compararArquivosOFX](https://github.com/vcsil/compararArquivosOFX)<br>
-5. ⬆️ Pushed undefined commit(s) to [vcsil/compararArquivosOFX](https://github.com/vcsil/compararArquivosOFX)<br>
-6. ⬆️ Pushed undefined commit(s) to [vcsil/compararArquivosOFX](https://github.com/vcsil/compararArquivosOFX)<br>
-7. ⬆️ Pushed undefined commit(s) to [vcsil/compararArquivosOFX](https://github.com/vcsil/compararArquivosOFX)<br>
+5. ✌️ Released [v2.1.0](https://github.com/vcsil/compararArquivosOFX/releases/tag/v2.1.0) in [vcsil/compararArquivosOFX](https://github.com/vcsil/compararArquivosOFX)<br>
+6. 💬 Commented on [#2](https://github.com/vcsil/compararArquivosOFX/pull/2#issuecomment-6920766257) in [vcsil/compararArquivosOFX](https://github.com/vcsil/compararArquivosOFX)<br>
+7. 💬 Commented on [#2](https://github.com/vcsil/compararArquivosOFX/pull/2#issuecomment-6920431463) in [vcsil/compararArquivosOFX](https://github.com/vcsil/compararArquivosOFX)<br>
  <!--RECENT_ACTIVITY:end-->
 
 </details>
